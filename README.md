@@ -150,7 +150,6 @@ verify it yourself.
 - [Product scope and architecture](docs/product-scope.md)
 - [Usage guide](docs/usage.md)
 - [Implementation TODO](docs/todo.md)
-
 - [Release Testing Manual](docs/testing.md) – Step-by-step physical device testing checklist across macOS and Windows.
 
 ## License
