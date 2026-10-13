@@ -110,8 +110,8 @@ Perform these verification passes on a physical **Windows 10 / 11** system.
 - [ ] **Expected Result:**  
     1. *Functional:* Reports normal green connectivity statuses. 
     2. *Wi-Fi Off:* `"This computer isn't connected to a network. Check that Wi-Fi is on and joined to a network."` 
-    3. *Unplugged:* `"The local network works, but the internet isn't reachable through it…"` 
-    4. *Hotel Portal:* `"This network needs you to sign in…"` 
+    3. *Unplugged:* `"You're connected to the network, but the router..."` 
+    4. *Hotel Portal:* `"This network needs you to sign in. Open a web browser to see its sign-in page."` 
   
 ### Windows Checklists 
 - [ ] **Steps:** Execute the connection health analyzer command under the following physical host environments: 
@@ -122,5 +122,5 @@ Perform these verification passes on a physical **Windows 10 / 11** system.
 - [ ] **Expected Result:**  
     1. *Functional:* Reports normal green connectivity statuses. 
     2. *Wi-Fi Off:* `"This computer isn't connected to a network. Check that Wi-Fi is on and joined to a network."` 
-    3. *Unplugged:* `"The local network works, but the internet isn't reachable through it…"` 
-    4. *Hotel Portal:* `"This network needs you to sign in…"` 
+    3. *Unplugged:* `"You're connected to the network, but the router..."` 
+    4. *Hotel Portal:* `"This network needs you to sign in. Open a web browser to see its sign-in page."` 
