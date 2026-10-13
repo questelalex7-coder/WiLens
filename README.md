@@ -151,6 +151,8 @@ verify it yourself.
 - [Usage guide](docs/usage.md)
 - [Implementation TODO](docs/todo.md)
 
+- [Release Testing Manual](docs/testing.md) – Step-by-step physical device testing checklist across macOS and Windows.
+
 ## License
 
 [MIT](LICENSE) © whereissam
